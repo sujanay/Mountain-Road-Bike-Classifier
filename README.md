@@ -1,5 +1,5 @@
 # Mountain-Road-Bike-Classifier
-This work was accomplished using **jupyter notebook** in GCP. The images of mountain bike and road bike are
+This work was accomplished using **jupyter notebook** in GCP and hence it contains code in both jupyter notebook and simple python file format. The images of mountain bike and road bike are
 preprocessed using **keras** and the **CNN** model was implemented using **tensorflow**. 
 
 ## Training the model
