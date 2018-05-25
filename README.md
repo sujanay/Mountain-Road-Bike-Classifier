@@ -5,7 +5,7 @@ preprocessed using **keras** and the **CNN** model was implemented using **tenso
 ## Training the model
 - The training images were preprocessed using **keras** and fed to the CNN model.
 - The input size of training images were 28x28.
-- The model was trained using sophisticated AdamOptimizer with learning rate of 1e-4.
+- The model was trained using sophisticated **AdamOptimizer** with learning rate of 1e-4.
 
 ## Saving the model
 - The trained model was saved using tensorflow **saver**.
